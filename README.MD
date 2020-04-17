@@ -28,3 +28,53 @@ Underline 2
 - Esto es un item de lista desordenada
 - Esto es un item de lista desordenada
 
+# Links
+
+- <a href="http://google.com">Esto es un link HTML </a>
+- [Esto es un link en Markdown](http://google.com)
+- [Esto es un link en index.html](index.html)
+
+# Imagenes
+
+![Logotipo](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 1")
+
+# Snippets
+Código en JS
+```javascript
+var s = "JavaScript syntax highlighting";
+alert(s);
+```
+# Tablas
+| Nombre | Apellido | Documento | 
+| ------ | -------- | --------- |
+| Ruben | Llarena | INE |
+| Federico | Huerta | Pasaporte |
+
+# Blackquotes (Citas)
+
+Esto es un texto referente a una cita que pondremos debajo:
+> Esto es una Cita
+
+Esto es otro texto que no se relaciona con lo anterior.
+> Esta es otra cita
+
+# Lineas divisoras
+
+Esto es un texto que será dividido por guiones medios
+
+---
+esto es otro texto dividido por asteriscos
+
+***
+Esto es otro texto dividido por guiones bajos
+
+___
+
+# Saltos de línea
+
+Esto es nuestro primer parrafo.
+
+Esto es nuestro primer parrafo.
+
+Esto es nuestro primer parrafo.
+
